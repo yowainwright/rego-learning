@@ -13,7 +13,7 @@ Setup the repository by running the setup script
 
 Execute the tests by running the test script
 ```bash
-./bin/test.sh
+./bin/run_tests.sh
 ```
 
 When committing tests will be run. This package was built with the [VSCode Opa extension](https://marketplace.visualstudio.com/items?itemName=tsandall.opa).
