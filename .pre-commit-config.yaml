@@ -3,5 +3,5 @@ repos:
     hooks:
       - id: tests
         name: run unit tests
-        entry: ./scripts/run_unit_tests.sh
+        entry: ./bin/run_tests.sh
         language: script

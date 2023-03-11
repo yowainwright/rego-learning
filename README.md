@@ -17,3 +17,10 @@ Execute the tests by running the test script
 ```
 
 When committing tests will be run. This package was built with the [VSCode Opa extension](https://marketplace.visualstudio.com/items?itemName=tsandall.opa).
+
+## Directory Structure
+
+- **`/bin`**: contains scripts
+- **`/policy`**: is the most simple policy example
+- **`/rest`**: is a REST API example
+- **`/rest_detailed`**: is a REST API example with tests
