@@ -1,0 +1,5 @@
+{
+  "editor.formatOnPaste": true,
+  "testing.automaticallyOpenPeekViewDuringAutoRun": true,
+  "opa.strictMode": true,
+}

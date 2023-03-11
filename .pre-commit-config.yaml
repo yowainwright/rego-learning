@@ -1,0 +1,7 @@
+repos:
+  - repo: local
+    hooks:
+      - id: tests
+        name: run unit tests
+        entry: ./scripts/run_unit_tests.sh
+        language: script
